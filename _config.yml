@@ -16,9 +16,6 @@ name: RSE2107A Group2
 headline: About Us
 description: >- # dont remove this line. this will ignore all new lines until the next section
   We are a team of six passionate undergraduate students from the Singapore Institute of Technology, currently pursuing our Bachelors degree in Robotics Systems Engineering. Brought together by a shared interest in autonomous systems and intelligent automation, we have worked collaboratively on a range of robotics projects that integrate mechanical design, embedded systems, and advanced software frameworks—including the Robot Operating System (ROS).
-Our diverse strengths span system integration, control systems, real-time data processing, and simulation. With hands-on experience in both academic and applied settings, we are committed to developing practical, scalable robotic solutions. This portfolio showcases our collective capabilities in ROS and demonstrates how we apply engineering principles to solve real-world challenges.
-We aim to bring both innovation and reliability to the field of robotics—qualities that we believe are essential to meeting the demands of today’s rapidly evolving automation landscape. Our current project involves designing a maze arena and implementing autonomous navigation using ROS1 on the Limo robot, showcasing skills in path planning and design.
-
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
