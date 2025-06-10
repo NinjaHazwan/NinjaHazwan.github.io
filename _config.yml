@@ -18,7 +18,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
   We are a team of six passionate undergraduate students from the Singapore Institute of Technology, currently pursuing our Bachelors degree in Robotics Systems Engineering. Brought together by a shared interest in autonomous systems and intelligent automation, we have worked collaboratively on a range of robotics projects that integrate mechanical design, embedded systems, and advanced software frameworks—including the Robot Operating System (ROS).
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: ./assets/images/profile-image/mugshot.jpg
 
 
 # Link your resume
