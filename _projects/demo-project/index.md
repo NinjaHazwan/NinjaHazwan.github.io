@@ -8,8 +8,7 @@ skills:
   - Navigation
 
 main-image: /ros.png
-main-image-width: 100px
-main-image-height: 200px
+![ROS Navigation]({{ page.main-image }}){: style="width: 65%; max-width: 600px; display: block; margin: 20px auto; border: 1px solid #eee; border-radius: 4px;"}
 ---
 
 ---
