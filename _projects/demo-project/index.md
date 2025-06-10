@@ -8,6 +8,8 @@ skills:
   - Navigation
 
 main-image: /ros.png
+main-image-width: 600px
+main-image-height: auto
 ---
 
 ---
