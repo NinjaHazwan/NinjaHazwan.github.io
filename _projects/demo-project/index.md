@@ -59,6 +59,7 @@ TF2 is the transform library for ROS. It maintains the relationship between coor
 
 ## How Transforms Are Published?
 **Static Transformations**: ROS’s pre-built packages and active developer community that remains constant over time.
+
 **Dynamic Transformations**: ROS’s pre-built packages and active developer community that changes continuously as the robot moves.
 
 ---
