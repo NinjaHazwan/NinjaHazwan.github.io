@@ -51,7 +51,7 @@ main-image: /ros.png
 ## Introduction to TF2
 TF2 is the transform library for ROS. It maintains the relationship between coordinate frames in a tree structure buffered in time. It lets users transform points between any 2 coordinate frames at any desired point in time.
 
-##How Transforms Are Published?
+## How Transforms Are Published?
 **Static Transformations**: ROS’s pre-built packages and active developer community that remains constant over time.
 **Dynamic Transformations**: ROS’s pre-built packages and active developer community that changes continuously as the robot moves.
 
