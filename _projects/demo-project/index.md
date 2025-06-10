@@ -7,7 +7,7 @@ skills:
   - Mapping
   - Navigation
 
-main-image: /project2.jpg
+main-image: /ros.png
 ---
 
 ---
