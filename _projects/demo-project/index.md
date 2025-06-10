@@ -29,7 +29,7 @@ main-image: /ros.png
 **Simulation Support**: Tools like Gazebo and RViz help validate systems in virtual environments before deployment.
 
 
----
+
 ## Why ROS Matters 
 **Accelerates Development**: ROS’s pre-built packages and active developer community reduce time-to-market for robotics solutions.
 
@@ -46,7 +46,7 @@ main-image: /ros.png
 **Encourages Innovation**: With access to cutting-edge research tools and rapid prototyping capabilities, ROS fosters innovation in robotics applications.
 
 
----
+
 # TF2
 ## Introduction to TF2
 TF2 is the transform library for ROS. It maintains the relationship between coordinate frames in a tree structure buffered in time. It lets users transform points between any 2 coordinate frames at any desired point in time.
@@ -55,7 +55,7 @@ TF2 is the transform library for ROS. It maintains the relationship between coor
 **Static Transformations**: ROS’s pre-built packages and active developer community that remains constant over time.
 **Dynamic Transformations**: ROS’s pre-built packages and active developer community that changes continuously as the robot moves.
 
----
+
 
 <!--## Embedding images 
 ### External images
