@@ -1,7 +1,7 @@
 ---
 layout: post
-title: project title
-description:  short description of the project
+title: Navigation & Arena Design
+description:  Create A Maze
 skills: 
 - skill 1
 - skill 2
