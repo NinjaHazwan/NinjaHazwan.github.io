@@ -8,6 +8,7 @@ skills:
   - Navigation
 
 main-image: /ros.png
+
 ---
 
 ---
