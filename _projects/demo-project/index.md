@@ -1,22 +1,31 @@
 ---
 layout: post
 title: Understanding Transforms, Mapping and Navigation in ROS
-description:  These are the tutorials done that have helped our group 
+description:  The Robot Operating System (ROS) is a flexible, open-source framework for writing robot software. It provides tools, libraries, and conventions to simplify the task of creating complex and robust robot behavior across a wide variety of robotic platforms. ROS is widely used in academia, research, and increasingly in commercial robotics due to its modular architecture and strong community support.
 skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+  - Transformations
+  - Mapping
+  - Navigation
 
 main-image: /project2.jpg
 ---
 
 ---
-# Header 1 
-Used for the title (already generated automatically at the top)
+# Key Features and Capabilities 
+Modular System Architecture: ROS nodes allow distributed development, improving maintainability and scalability.
+
+
+Sensor Integration: ROS supports a wide range of sensors (LiDAR, IMU, cameras) with plug-and-play compatibility.
+
+
+Real-Time Data Handling: ROS offers tools like tf2, rosbag, and rviz for real-time data processing, visualization, and debugging.
+
+
+Cross-Platform Interoperability: Compatible with C++, Python, and embedded systems, allowing integration with diverse hardware.
+
+
+Simulation Support: Tools like Gazebo and RViz help validate systems in virtual environments before deployment.
+
 ## Header 2  
 Use this for the header of each section
 ### Header 3 
