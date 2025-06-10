@@ -11,7 +11,7 @@ main-image: /ros.png
 ---
 
 ---
-#ROS1 Introduction
+# ROS1 Introduction
 ## Key Features and Capabilities of ROS
 **Modular System Architecture**: ROS nodes allow distributed development, improving maintainability and scalability.
 
