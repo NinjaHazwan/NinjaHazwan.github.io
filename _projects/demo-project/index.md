@@ -8,8 +8,8 @@ skills:
   - Navigation
 
 main-image: /ros.png
-main-image-width: 600px
-main-image-height: auto
+<!-- Display the main image with controlled size -->
+<img src="/ros.png" alt="ROS Overview" width="600" height="200" style="display: block; margin: 0 auto;" />
 ---
 
 ---
