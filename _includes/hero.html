@@ -6,7 +6,7 @@
             <h2>
                 About Us
                <!-- I'm {{ site.name | split: ' ' | first }} 
-                {% if site.external-links %} -->
+                {% if site.external-links %} 
                 <span class="external-links">
                     {% assign platforms = "linkedin,x-twitter,github,stackoverflow,discord,medium,threads,bluesky,instagram,youtube" | split: "," %}
                     {% for platform in platforms %}
@@ -15,7 +15,7 @@
                             {% when 'linkedin' %}
                             <a href="https://www.linkedin.com/in/{{ site.external-links[platform] }}/" target="_blank">
                                 <i class="fa-brands fa-linkedin"></i>
-                            </a>
+                            </a> -->
                         
                             {% when 'github' %}
                                 <a href="https://github.com/{{ site.external-links[platform] }}/" target="_blank">
