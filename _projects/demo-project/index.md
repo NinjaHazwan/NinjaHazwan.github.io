@@ -72,6 +72,12 @@ In this project, we implemented 2D SLAM (Simultaneous Localization and Mapping) 
 
 {% include image-gallery.html images="mapping full.png" height="400" %} 
             *Fully scanned map displayed in RVIZ*
+
+## Navigation
+In this project, we implemented autonomous navigation for TurtleBot3 using the move_base package in the ROS Navigation Stack within a Gazebo simulation. After generating the map using SLAM, the robot was able to localize itself and navigate to user-defined goals using global and local costmaps. The RViz interface displayed real-time obstacle inflation, path planning, and costmap layers—highlighting how the robot dynamically computed safe paths and avoided obstacles in a structured indoor environment. We configured key ROS components such as AMCL for localization, global and local planners, and costmap parameters. This project deepened my understanding of autonomous mobility, sensor integration, and real-time decision-making in robotic systems.
+
+
+            
 ### Embeed images
 {% include image-gallery.html images="mapping.png" height="400" %} 
 place the images in project folder/images then update the file path.   
