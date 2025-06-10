@@ -27,7 +27,7 @@ main-image: /ros.png
 
 
 **Simulation Support**: Tools like Gazebo and RViz help validate systems in virtual environments before deployment.
----
+
 
 ---
 ## Why ROS Matters 
@@ -44,7 +44,7 @@ main-image: /ros.png
 
 
 **Encourages Innovation**: With access to cutting-edge research tools and rapid prototyping capabilities, ROS fosters innovation in robotics applications.
----
+
 
 ---
 # TF2
@@ -66,10 +66,10 @@ You can put in multiple entries. All images will be at a fixed height in the sam
 # Mapping & Navigation
 ## Mapping
 In this project, we implemented 2D SLAM (Simultaneous Localization and Mapping) using the GMapping algorithm with TurtleBot3 in a Gazebo simulation environment under ROS Melodic. The system enables the robot to autonomously build a map of an unknown indoor environment while simultaneously estimating its position using laser scan data and wheel odometry. Visualization in RViz displayed the evolving occupancy grid map, showing explored areas, obstacles, and real-time laser feedback. We launched the simulation world, ran the SLAM node, and manually teleoperated the robot to explore and construct the map. This setup demonstrated our understanding of robot perception, ROS packages, coordinate transforms, and real-time mapping in a simulated robotics context.
----
+
 {% include image-gallery.html images="mapping.png" height="400" %} 
             *Turtlebot3 scanning surroundings to build map in RVIZ*
----
+
 {% include image-gallery.html images="mapping full.png" height="400" %} 
             *Fully scanned map displayed in RVIZ*
 ### Embeed images
