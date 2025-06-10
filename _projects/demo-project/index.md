@@ -98,7 +98,7 @@ you can also set up custom size by specifying the width (the aspect ratio has be
 The width of the video below. Regardless of initial width, all the videos is responsive and will fit within the smaller screen.
 {% include youtube-video.html id="tGCdLEQzde0" autoplay = "false" width= "900px" %} --> 
 
-<br>
+<!-- <br>
 
 ## Adding a hozontal line
 ---
@@ -161,6 +161,6 @@ console.log(x);
 | Row 1, Col 1 | Row 1, Col 2 |
 | Row 2, Col 1 | Row 2, Col 2 |
 
-make sure to leave aline betwen the table and the header
+make sure to leave aline betwen the table and the header -->
 
 
