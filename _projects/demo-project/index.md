@@ -27,7 +27,9 @@ main-image: /ros.png
 
 
 **Simulation Support**: Tools like Gazebo and RViz help validate systems in virtual environments before deployment.
+---
 
+---
 ## Why ROS Matters 
 **Accelerates Development**: ROS’s pre-built packages and active developer community reduce time-to-market for robotics solutions.
 
@@ -42,12 +44,18 @@ main-image: /ros.png
 
 
 **Encourages Innovation**: With access to cutting-edge research tools and rapid prototyping capabilities, ROS fosters innovation in robotics applications.
+---
 
+---
 # TF2
 ## Introduction to TF2
 TF2 is the transform library for ROS. It maintains the relationship between coordinate frames in a tree structure buffered in time. It lets users transform points between any 2 coordinate frames at any desired point in time.
 
+##How Transforms Are Published?
+**Static Transformations**: ROS’s pre-built packages and active developer community that remains constant over time.
+**Dynamic Transformations**: ROS’s pre-built packages and active developer community that changes continuously as the robot moves.
 
+---
 
 <!--## Embedding images 
 ### External images
@@ -55,12 +63,18 @@ TF2 is the transform library for ROS. It maintains the relationship between coor
 <span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
 You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  
 -->
+# Mapping & Navigation
+## Mapping
+In this project, we implemented 2D SLAM (Simultaneous Localization and Mapping) using the GMapping algorithm with TurtleBot3 in a Gazebo simulation environment under ROS Melodic. The system enables the robot to autonomously build a map of an unknown indoor environment while simultaneously estimating its position using laser scan data and wheel odometry. Visualization in RViz displayed the evolving occupancy grid map, showing explored areas, obstacles, and real-time laser feedback. We launched the simulation world, ran the SLAM node, and manually teleoperated the robot to explore and construct the map. This setup demonstrated our understanding of robot perception, ROS packages, coordinate transforms, and real-time mapping in a simulated robotics context.
+
+
+
 ### Embeed images
 {% include image-gallery.html images="SEP1 pic.png" height="400" %} 
 place the images in project folder/images then update the file path.   
 
 
-## Embedding youtube video
+<!--## Embedding youtube video
 The second video has the autoplay on. copy and paste the 11-digit id found in the url link. <br>
 *Example* : https://www.youtube.com/watch?v={**MhVw-MHGv4s**}&ab_channel=engineerguy
 {% include youtube-video.html id="MhVw-MHGv4s" autoplay= "false"%}
@@ -69,7 +83,7 @@ The second video has the autoplay on. copy and paste the 11-digit id found in th
 you can also set up custom size by specifying the width (the aspect ratio has been set to 16/9). The default size is 560 pixels x 315 pixels.  
 
 The width of the video below. Regardless of initial width, all the videos is responsive and will fit within the smaller screen.
-{% include youtube-video.html id="tGCdLEQzde0" autoplay = "false" width= "900px" %}  
+{% include youtube-video.html id="tGCdLEQzde0" autoplay = "false" width= "900px" %} --> 
 
 <br>
 
