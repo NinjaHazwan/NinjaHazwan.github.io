@@ -9,7 +9,7 @@ skills:
 
 main-image: /ros.png
 <!-- Display the main image with controlled size -->
-<img src="/ros.png" alt="ROS Overview" width="600" height="200" style="display: block; margin: 0 auto;" />
+<img src="/ros.png" alt="ROS Overview" width="600" style="display: block; margin: 0 auto;" />
 ---
 
 ---
