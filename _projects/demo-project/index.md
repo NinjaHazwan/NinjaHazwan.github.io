@@ -2,10 +2,16 @@
 layout: post
 title: Understanding Transforms, Mapping and Navigation in ROS
 description:  The Robot Operating System (ROS) is a flexible, open-source framework for writing robot software. It provides tools, libraries, and conventions to simplify the task of creating complex and robust robot behavior across a wide variety of robotic platforms. ROS is widely used in academia, research, and increasingly in commercial robotics due to its modular architecture and strong community support. Our current project involves designing a maze arena and implementing autonomous navigation using ROS1 on the Limo robot. In this page we display our learning on ROS1.
-skills: 
-  - Transformations
-  - Mapping
-  - Navigation
+Core Topics: 
+  - ROS1 transformations
+  - tf2 in ROS
+  - ROS navigation stack
+  - ROS mapping (SLAM)
+  - ROS path planning
+Tools: 
+  - ROS AMCL
+  - ROS gmapping
+  - ROS move_base
 
 main-image: /ros.png
 
