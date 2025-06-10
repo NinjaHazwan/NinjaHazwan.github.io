@@ -8,7 +8,7 @@ skills:
   - Navigation
 
 main-image: /ros.png
-![ROS Navigation]({{ page.main-image }}){: style="width: 25%; max-width: 600px; display: block; margin: 20px auto; border: 1px solid #eee; border-radius: 4px;"}
+![ROS Navigation]({{ page.main-image }}){: style="width: 50%; max-width: 600px; display: block; margin: 20px auto; border: 1px solid #eee; border-radius: 4px;"}
 ---
 
 ---
