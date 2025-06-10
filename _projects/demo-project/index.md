@@ -11,7 +11,7 @@ main-image: /ros.png
 ---
 
 ---
-# Key Features and Capabilities of ROS
+## Key Features and Capabilities of ROS
 Modular System Architecture: ROS nodes allow distributed development, improving maintainability and scalability.
 
 
@@ -26,7 +26,7 @@ Cross-Platform Interoperability: Compatible with C++, Python, and embedded syste
 
 Simulation Support: Tools like Gazebo and RViz help validate systems in virtual environments before deployment.
 
-# Why ROS Matters 
+## Why ROS Matters 
 Accelerates Development: ROS’s pre-built packages and active developer community reduce time-to-market for robotics solutions.
 
 
