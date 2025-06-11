@@ -15,8 +15,13 @@ title: RSE2107A Group 2's Portfolio # This is what shows up in the tab of the br
 name: RSE2107A Group2
 #headline: About Us
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  We are a team of six passionate undergraduate students from the Singapore Institute of Technology, currently pursuing our Bachelors degree in Robotics Systems Engineering. Brought together by a shared interest in autonomous systems and intelligent automation, we have worked collaboratively on a range of robotics projects that integrate mechanical design, embedded systems, and advanced software frameworks—including the Robot Operating System (ROS).
-
+  We are a team of six passionate undergraduate students from the Singapore Institute of Technology, currently pursuing our Bachelors degree in Robotics Systems Engineering. Brought together by a shared interest in autonomous systems and intelligent automation, we have worked collaboratively on a range of robotics projects that integrate mechanical design, embedded systems, and advanced software frameworks—including the Robot Operating System (ROS).Alridge Ace (2403164)
+Hazwan Bin Ahmad Zaki (2402246)
+Jerameel Gomez (2401541)
+Lee Zhao Lun (2402108)
+Loh Wai Mun (2401318)
+M Kavindren (2401320)
+  
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/mugshot.jpg
 
