@@ -86,12 +86,12 @@ In this project, we implemented autonomous navigation for TurtleBot3 using the m
 {% include image-gallery.html images="move_base1.png" height="400" %}
 {% include image-gallery.html images="SEP1 pic.png" height="400" %}
 {% include image-gallery.html images="global rqt.png" height="400" %}
-            *TurtleBot3 using globalplanner to navigate pass obstacles to a selected point in map*
+            *TurtleBot3 using globalplanner to navigate to the end goal*
 
-We also tried using the carrot_planner
+We also tried using the carrot_planner, which is a simple point to point navigation
 {% include image-gallery.html images="carrot.png" height="400" %}
 {% include image-gallery.html images="carrot rqt.png" height="400" %}
-
+            *TurtleBot3 using carrotplanner to navigate to the end goal*
             
 <!--### Embeed images
 {% include image-gallery.html images="mapping.png" height="400" %} 
